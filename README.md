@@ -10,5 +10,3 @@ if the login / password is entered correctly, then you can click on the "log in"
 where the login should be displayed in the h1 tag.
 To store/display the login, you need to use redux
 For routing - react-router
-
-#### github pages:
